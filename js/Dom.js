@@ -12,7 +12,7 @@ document.getElementById('btn-login')
 
     if(textInput=== '10' && yourPin === '1234'){
         console.log('You are Login now');
-        window.location.href ='/Home.html'
+        window.location.href ='./Home.html'
     }
     else{
         alert('textInput or your pin not mass')
